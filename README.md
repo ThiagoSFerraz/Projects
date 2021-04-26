@@ -11,8 +11,8 @@
 <h1></h1>
 <h2 align='center'><b>Categories:</b></h2>
 <p align="center">
-<a href="" style="outline: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="180"></a>
-<a href="" style="outline: none;"><img src="https://wp-and-react.com/wp-content/uploads/2017/05/react-2.png" style="position: relative; top: 25px" width="200"></a>
+<a href="https://github.com/ThiagoSFerraz/Projects/tree/main/Vue" style="outline: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="180"></a>
+<a href="https://github.com/ThiagoSFerraz/Projects/tree/main/React" style="outline: none;"><img src="https://wp-and-react.com/wp-content/uploads/2017/05/react-2.png" style="position: relative; top: 25px" width="200"></a>
 </p>
 <h1></h1>
 <p>Hope that you like it, if you want to contact me send an email to <a href="mailto:oniferraz@gmail.com">oniferraz@gmail.com</a>
