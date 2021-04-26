@@ -12,7 +12,7 @@
 <h2 align='center'><b>Categories:</b></h2>
 
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB) ](https://github.com/ThiagoSFerraz/NLW) [![Vue Badge](https://img.shields.io/badge/-Vue.Js-00bb76?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=00bb76) ](https://github.com/ThiagoSFerraz/NLW) 
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB) ](https://github.com/ThiagoSFerraz/Projects/tree/main/React) [![Vue Badge](https://img.shields.io/badge/-Vue.Js-00bb76?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=00bb76) ](https://github.com/ThiagoSFerraz/Projects/tree/main/Vue) 
 
 <h1></h1>
 <p>Hope that you like it, if you want to contact me send an email to <a href="mailto:oniferraz@gmail.com">oniferraz@gmail.com</a>
