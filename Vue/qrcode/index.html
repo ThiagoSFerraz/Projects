@@ -5,7 +5,7 @@
         <script src="js/vue.min.js"></script>
         <script src="js/qrious.min.js"></script>
         <link rel="stylesheet" href="css/style.css" />
-        <title>Gerador de QRCode</title>
+        <title>QRCode Generator</title>
     </head>
 
     <body>
@@ -20,12 +20,12 @@
                         <input
                             type="text"
                             size="25"
-                            placeholder="Digite para gerar um QRcode"
+                            placeholder="Type or paste here"
                             v-model="text"
                         />
                     </div>
                     <img :src="newQRCode" alt="QRCode" class="output" />
-                    <p class="finished">Terminou? Agora é só escanear o QRCode acima! :)</p>
+                    <p class="finished">Are you finished? Now just Scan the QR Code! :)</p>
                 </div>
             </div>
             <div v-else>
@@ -38,7 +38,7 @@
                         <input
                             type="text"
                             size="25"
-                            placeholder="Digite para gerar um QRcode"
+                            placeholder="Type or paste here"
                             v-model="text"
                         />
                 </div>
@@ -48,8 +48,8 @@
             new Vue({
                 el: "#app",
                 data: {
-                    title: "Gerador de QRCode",
-                    info: "Digite ou cole um link abaixo para transforma-lo em QRCode",
+                    title: "QR Code generator",
+                    info: "Type or paste a link to transform it in a QR CODE",
                     text: "",
                     qrcode: new QRious({ size: 300 }),
                 },
